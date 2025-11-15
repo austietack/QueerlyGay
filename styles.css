@@ -14,7 +14,7 @@ h2 {
     Font-size:40px;
 }
 h3 {
-    text-align: left;
+    text-align: center;
     Color: white;
     Font-size:35 px;
     
@@ -27,7 +27,7 @@ ul {
 }
 
 li {
-    float: left;
+    float: center;
 }
 
 li a, .dropbtn {
