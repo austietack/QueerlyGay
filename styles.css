@@ -6,8 +6,7 @@ h1 {
     text-align: left;
     Color: white;
     Font-size:60px;
-    text-decoration: underline;
-    text-decoration-thickness: 45%;
+    
 }
 h2 {
     text-align: center;
@@ -17,9 +16,8 @@ h2 {
 h3 {
     text-align: center;
     Color: white;
-    Font-size:30 px;
-    text-decoration: underline;
-    text-decoration-thickness: 60%;
+    Font-size:35 px;
+    
 }
 ul {
     list-style-type: none;
